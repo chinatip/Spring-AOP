@@ -4,7 +4,7 @@ Chinatip Vichian  5710546551
 
 ### Output
 
-![Alt tag](master/output.png)
+See [Captured output](https://github.com/chinatip/Spring-AOP/blob/master/output.png)
 
 ```sh
 1438 [main] INFO sample.spring.aspects.LoggingAspect  - Entering BankAccountServiceImpl's createBankAccount
